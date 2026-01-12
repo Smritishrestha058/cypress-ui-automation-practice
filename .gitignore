@@ -1,0 +1,4 @@
+node_modules/
+cypress/videos/
+cypress/screenshots/
+cypress/e2e/layoutThree.cy.js
